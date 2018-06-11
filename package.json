@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-remove-storage-permissions",
+  "version": "1.0.0",
+  "description": "Remove READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE from AndroidManifest.xml.",
+  "cordova": {
+    "id": "cordova-plugin-remove-storage-permissions",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigatec/cordova-plugin-remove-storage-permissions.git"
+  },
+  "keywords": [
+    "Remove",
+    "READ_EXTERNAL_STORAGE",
+    "WRITE_EXTERNAL_STORAGE",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gigatec/cordova-plugin-remove-storage-permissions/issues"
+  },
+  "homepage": "https://github.com/gigatec/cordova-plugin-remove-storage-permissions#readme"
+}
